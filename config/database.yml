@@ -13,11 +13,3 @@ test:
   pool: 5
   username: sample_app
   password:
-
-production:
-  adapter: postgresql
-  encoding: unicode
-  database: sample_app_production
-  pool: 5
-  username: sample_app
-  password:
